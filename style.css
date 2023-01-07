@@ -1,0 +1,181 @@
+        * {
+            width: auto;
+            height: auto;
+        }
+        /* banner style */
+        
+        .header {
+            background-image: url('images/banner/banner1.png');
+            background-repeat: no-repeat;
+            width: 1400px;
+            height: 700px;
+            display: flex;
+        }
+        
+        .banner {
+            margin-left: 800px;
+            margin-top: 300px;
+            margin-right: 400px;
+            text-align: right;
+            font-size: 15px;
+        }
+        
+        .button {
+            margin: 5px;
+            height: 44px;
+            border-radius: 5px;
+            background: #FD6E0A;
+            color: white;
+            font-weight: 700;
+            border: 0;
+            padding: 0px 25px;
+        }
+        /* main  section 1 style */
+        
+        .main {
+            display: flex;
+            padding-top: 100px;
+            width: 1400px;
+            height: 1000px;
+            w
+        }
+        
+        .title-img {
+            padding: 10px 20px 60px 100px;
+            margin-top: 5px;
+            margin-bottom: 90px;
+        }
+        
+        .failure {
+            margin-top: 170px;
+            margin-left: 130px;
+            margin-right: 300px;
+            font-size: 15px;
+        }
+        /* main section 2 style*/
+        
+        .plan {
+            text-align: center;
+            width: 1400px;
+        }
+        
+        .icon {
+            display: flex;
+            justify-content: space-between;
+            width: 1400px;
+            margin-right: 250px;
+            margin-top: 30px;
+            margin-bottom: 50px;
+            width: 1400px;
+        }
+        
+        .iconsec {
+            background-color: rgb(64, 88, 221);
+        }
+        
+        #icon {
+            width: 1450px;
+            margin: auto;
+            text-align: center;
+            padding-top: 200px;
+        }
+        /* main section 3 style */
+        
+        .mindset1 {
+            background-image: url('images/watch.png');
+            background-position: center;
+            position: relative;
+            background-size: contain;
+            background-repeat: no-repeat;
+            width: 1500px;
+            height: 300px;
+        }
+        
+        .g-image {
+            margin-left: 0px;
+            display: flex;
+            background-repeat: no-repeat;
+            width: 1500px;
+            height: 300px;
+            align-items: left;
+        }
+        
+        .text {
+            font-size: 35px;
+            margin-left: 300px;
+            margin-bottom: 40px;
+            margin-right: 0px;
+        }
+        
+        .mindset2 {
+            display: flex;
+        }
+        
+        .img55 {
+            text-align: left;
+            padding-right: 200px;
+            width: 1400px;
+        }
+        /* footer */
+        
+        .future {
+            margin-top: 50px;
+            width: 1400px;
+            height: 400px;
+        }
+        
+        .about {
+            margin-left: 80px;
+            margin-top: 50px;
+            margin-right: 1000px;
+        }
+        
+        .sec-icon {
+            display: flex;
+            text-align: left;
+        }
+        /* footer styleg */
+        
+        .form {
+            width: 1400px;
+            margin: auto;
+            padding-top: 200px;
+        }
+        
+        .footer {
+            font: 20px solid white;
+            background: rgb(14, 14, 68);
+            text-align: left;
+            display: flex;
+            justify-content: space-between;
+            width: 1400px;
+            height: 600px;
+        }
+        
+        fieldset {
+            border: none;
+            font-size: 20px;
+            color: white;
+        }
+        
+        input {
+            border: 1px solid black;
+            border-radius: 5pxpx;
+            background-color: none;
+            height: 50px;
+            width: 200px;
+            color: white;
+        }
+        
+        .left {
+            margin-top: 150px;
+            margin-left: 200px;
+            margin-right: 500px;
+            color: white;
+        }
+        
+        .right {
+            margin-top: 200px;
+            margin-right: 200px;
+            color: white;
+        }
